@@ -36,5 +36,5 @@ If you have an animated GIF that demonstrates your research or a key experiment,
 ---
 
 ## Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/mulukuri-sai-vivek-0697011a1/)
+- **LinkedIn:** [Sai Vivek Mulukuri](https://linkedin.com/in/saivivekmulukuri/)
 - **Email:** [saivivekmulkur2000@gmail.com](mailto:saivivekmulkur2000@gmail.com)
