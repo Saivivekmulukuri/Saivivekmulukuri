@@ -1,4 +1,4 @@
-## Namaste, I'm Sai Vivek Mulukuri! 👋
+## Namaste, I'm Sai Vivek Mulukuri! 🙏
 
 <!--
 **Saivivekmulukuri/Saivivekmulukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +31,7 @@ I'm a **MS by Research** student speacializing in **Data Science and Artificial 
 ### Animated GIF
 If you have an animated GIF that demonstrates your research or a key experiment, you can embed it directly:
 
-![Research in Action](https://your-image-host.com/path-to-your-gif.gif)
+![Research in Action](https://drive.google.com/uc?export=view&id=17Lope_bzJ7KYl1IM_OqlWAsNG-KIjXXo)
 
 ---
 
