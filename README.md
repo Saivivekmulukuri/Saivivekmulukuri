@@ -10,7 +10,7 @@ I'm a **MS by Research** student speacializing in **Data Science and Artificial 
 
 ## Research Showcase
 
-![Research in Action](https://drive.google.com/uc?export=view&id=17Lope_bzJ7KYl1IM_OqlWAsNG-KIjXXo)
+![Research in Action](./collage.gif)
 
 ---
 
