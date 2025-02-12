@@ -1,29 +1,10 @@
 ## Namaste, I'm Sai Vivek Mulukuri! 🙏
 
-<!--
-**Saivivekmulukuri/Saivivekmulukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## About Me
-I'm a **MS by Research** student speacializing in **Data Science and Artificial Intelligence** at **Indian Institute of Technology Bombay**. My research focuses on leveraging traditional Image Processing techniques along with Deep Learning menthods to solve the problem of **Video De-Fencing**.
-
----
-
-## Academic Details
-- **Degree:** MS by Research in Data Science and Artificial Intelligence, CMInDS.
-- **University:** Indian Institute of Technology Bombay
-- **Research Focus:** Computer Vision
-- **Supervisor:** Prof. Ajit Rajwade
+## 👨‍💻About Me
+I'm a **MS by Research** student speacializing in **Data Science and Artificial Intelligence** at **Indian Institute of Technology Bombay**. 
+- 🔭 My research focuses on leveraging traditional Image Processing techniques along with Deep Learning menthods to solve the problem of **Video De-Fencing** supervised by Prof. Ajit Rajwade.
+- 🌱 I’m currently exploring applications of AI in Agriculture.
+- 👯 I’m looking to collaborate on exciting project aiming to solve real-world problems.
 
 ---
 
