@@ -9,8 +9,6 @@ I'm a **MS by Research** student speacializing in **Data Science and Artificial 
 ---
 
 ## Research Showcase
-### Animated GIF
-If you have an animated GIF that demonstrates your research or a key experiment, you can embed it directly:
 
 ![Research in Action](https://drive.google.com/uc?export=view&id=17Lope_bzJ7KYl1IM_OqlWAsNG-KIjXXo)
 
